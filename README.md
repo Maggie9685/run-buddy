@@ -12,3 +12,5 @@ https://maggie9685.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Maggie Lai
+
+### ©️2019 Run Buddy, Inc 
